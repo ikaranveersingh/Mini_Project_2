@@ -9,4 +9,3 @@ We have explained everything in this document. Relevant comments have also been 
 2.	GitHub Link – 
 
 https://github.com/ikaranveersingh/Mini_Project_2
-![image](https://user-images.githubusercontent.com/89224885/202360183-d473aee3-d180-4ed7-9fbd-a42fb1b7101b.png)
