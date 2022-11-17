@@ -9,3 +9,5 @@
 2.	GitHub Link – 
 
     https://github.com/ikaranveersingh/Mini_Project_2
+    
+Note : We were unable to save the model - as a pickle file as we were working on a local machine using the code provided.
